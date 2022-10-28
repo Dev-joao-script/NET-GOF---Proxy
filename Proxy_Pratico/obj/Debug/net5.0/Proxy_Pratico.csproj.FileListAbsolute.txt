@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.exe
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.deps.json
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.runtimeconfig.json
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.runtimeconfig.dev.json
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\ref\Proxy_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\bin\Debug\net5.0\Proxy_Pratico.pdb
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.AssemblyInfo.cs
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\ref\Proxy_Pratico.dll
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.pdb
+D:\_serie_design_patterns\2__Estruturais\7_Proxy\Proxy_Pratico\Proxy_Pratico\obj\Debug\net5.0\Proxy_Pratico.genruntimeconfig.cache
